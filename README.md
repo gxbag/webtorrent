@@ -1,6 +1,6 @@
 ## What
 
-A torrent client for iOS which runs on [play.js](https://playdotjs.com/) - without sideloading or jailbreaking! It's a simple wrapper around the excellent [WebTorrent](https://github.com/webtorrent/webtorrent) library.
+A torrent client for iOS which runs on [play.js](https://playdotjs.com/) [Now renamed to **CodeSandbox**] - without sideloading or jailbreaking! It's a simple wrapper around the excellent [WebTorrent](https://github.com/webtorrent/webtorrent) library.
 
 [<img src="https://github.com/nneonneo/iOS-Torrent-Client/raw/master/demo.png" alt="Demo downloading Big Buck Bunny" height="800px">](demo.png)
 
